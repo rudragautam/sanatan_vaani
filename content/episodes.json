@@ -1,0 +1,24 @@
+{
+  "series": "BHAGWAN VICHAAR",
+  "language": "hi",
+  "episodes": [
+    {
+      "chapter": "कर्म",
+      "deity": "श्री कृष्ण",
+      "title": "कर्म करते रहो",
+      "text": "अपने हिस्से का सही कर्म पूरे मन से करो। हर परिणाम को अपने नियंत्रण में रखने की कोशिश मत करो।",
+      "label": "भावार्थ",
+      "image": "assets/krishna.jpg",
+      "textPosition": "left"
+    },
+    {
+      "chapter": "धैर्य",
+      "deity": "श्री कृष्ण",
+      "title": "मन को स्थिर रखो",
+      "text": "परिस्थितियाँ बदलती रहती हैं। स्थिर मन ही कठिन समय में सही दिशा पहचान पाता है।",
+      "label": "विचार",
+      "image": "assets/krishna.jpg",
+      "textPosition": "right"
+    }
+  ]
+}
