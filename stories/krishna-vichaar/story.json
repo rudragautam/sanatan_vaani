@@ -1,0 +1,34 @@
+{
+  "id": "krishna-vichaar",
+  "title": "भगवान का एक विचार",
+  "subtitle": "एक विचार। एक सीख। एक पल ठहरने का।",
+  "format": "devotional_short",
+  "aspect_ratio": "9:16",
+  "chapters": [
+    {
+      "title": "कर्म",
+      "segments": [
+        {
+          "id": "01",
+          "title": "कर्म करते रहो",
+          "narration": "अपने हिस्से का सही कर्म पूरे मन से करो। हर परिणाम को अपने नियंत्रण में रखने की कोशिश मत करो।",
+          "visual": "visuals/krishna-vichaar/krishna.jpg",
+          "motion": "slow_push_in",
+          "label": "भावार्थ"
+        },
+        {
+          "id": "02",
+          "title": "मन को स्थिर रखो",
+          "narration": "परिस्थितियाँ बदलती रहती हैं। स्थिर मन ही कठिन समय में सही दिशा पहचान पाता है।",
+          "visual": "visuals/krishna-vichaar/krishna.jpg",
+          "motion": "slow_push_in",
+          "label": "विचार"
+        }
+      ]
+    }
+  ],
+  "ending": {
+    "title": "एक पल ठहरिए",
+    "subtitle": "आज के विचार को अपने साथ रखिए।"
+  }
+}
